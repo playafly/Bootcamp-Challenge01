@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Containers */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,6 +70,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* Content Adjustments */
 
 content {
     width: 75%;
@@ -187,6 +191,8 @@ benefits {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer Elements */
 
 .footer {
     padding: 30px;
